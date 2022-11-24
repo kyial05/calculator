@@ -1,0 +1,102 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-image: url(./1626795748_13-kartinkin-com-p-matematicheskie-formuli-fon-krasivo-13.jpg);
+    background-size: cover;
+}
+.main{
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    background-image: url(./1646969617_1-abrakadabra-fun-p-fon-mramor-belii-s-zolotom-1.jpg);
+    background-size: cover;
+}
+.plus{
+    display: flex;
+    flex-direction: column;
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.sum1{
+    width: 120px;
+    height: 40px;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid goldenrod;
+}
+.sum2{
+    margin-top: -20px;
+    width: 120px;
+    height: 40px;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid goldenrod;
+}
+.symbol{
+    width: 30px;
+    height: 30px;
+    margin-top: -8px;
+    margin-left: -160px;
+    font-size: 30px;
+    font-weight: 900;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    border: 2px solid gold;
+}
+.summary{
+    width: 120px;
+    height: 45px;
+    margin-top: 8px;
+    font-size: 25px;
+    background-color: gold;
+    color: black;
+    border-radius: 10px;
+}
+.minus{
+    display: flex;
+    flex-direction: column;
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+}
+.multi{
+    display: flex;
+    flex-direction: column;
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    margin-top: -18px;
+}
+.division{
+    display: flex;
+    flex-direction: column;
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: -18px;
+}
